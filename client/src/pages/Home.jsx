@@ -107,7 +107,7 @@ const Home = () => {
                 </>
             )}
         </div>
-        <p className='flex justify-center items-center text-[#666e75] text-[16px] m-3'>Made by Hitesh Jagwani</p>
+        <p className='flex justify-center items-center text-[#666e75] text-[16px] m-3'>Made  <span className='line-through mx-1'>with love</span> by Hitesh Jagwani</p>
     </section>
   )
 }
